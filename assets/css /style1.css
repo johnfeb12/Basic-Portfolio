@@ -1,7 +1,7 @@
 html{
 	margin:0px;
 	padding: 0px;
-	background-color: blue;
+	background-color: #CAC6BE;
 }
 
 
@@ -13,23 +13,65 @@ body{
 }
 
 .student{
-	text-align: center;
 	color: white;
 	background-color:black;
 	padding: 30px;
-	margin: 0px;
+	margin: -19px;
+	padding-right: 25%;
+	padding-left: 15%;
+	padding-bottom: 5%;
+	padding-top: 6px;
+	height: 50px;
+	border: 3px solid white;
+	width: 0%;
+	margin-left: 15%;
+	margin-bottom: 10px;
+	
+
 }
 .student1{
 	text-align: center;
-	
+	color: black;
+	border:1px solid black;
+		
 }
 
 img{
 	margin-left: 25px
+    
 }
 
 .contact { 
 	text-align: center;
 	font-size: 20px
-   			
+}
+
+.About{
+	position: relative;
+	top:40px;
+	left: 75%;
+}
+
+.Contact{
+	position: relative;
+	top:40px;
+	left: 77%;
+}
+
+.Portfolio{
+	position: relative;
+	top:40px;
+	left: 79%;
+}
+
+.icon{
+	position: relative;
+	left:70%;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	background-color: white;
+	width: 300px;
+	height:200px;
+	border:1px solid black;
 }

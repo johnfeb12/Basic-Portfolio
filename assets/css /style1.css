@@ -25,6 +25,7 @@ body{
 	height:67px;
 	border:1px solid black;
 	border-radius: 10px;
+	font-size: 200%
 
 
 }
@@ -33,16 +34,17 @@ body{
 	color: black;
 	background-color:white;
 	padding: 30px;
-	margin: -19px;
-	padding-right: 18%;
-	padding-left: 5%;
-	padding-bottom: 5%;
-	padding-top: 6px;
+	margin-top: -16px;
+	padding-right: 150px;
+	padding-left: 50px;
+	padding-bottom:;
+	padding-top: 5px;
 	height: 50px;
 	border: 3px solid white;
 	width: 0%;
-	margin-left: 15%;
-	margin-bottom: 10px;
+	margin-left: 25%;
+	margin-bottom:;
+	font-size: 220%;
 	
 	
 
@@ -55,9 +57,9 @@ body{
 	padding-right: 5%;
 	border-radius: 10px;
 	background-color: white;
+	height: 600px;
 
-		
-}
+	}
 
 img{
 	margin-left: 25px
@@ -98,13 +100,32 @@ img{
 }
 .hr1 {
     height: 1px;
-    border: 0;
+    border: 1px;
     border-top: 3px solid white;
     padding-top: 0px;
-    margin-top: -13px;
+    margin-top: -2px;
+    width: 100%;
 }
 
 .hr2{
 	margin-top: 20px;
 	 border-bottom: 2px solid white;
+}
+
+.imgme{
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+.contactinfo{
+	padding-top:30px; 
+}
+
+.email{
+	padding-top: 20px;
+}
+
+.aboutme{
+	padding-top: 30px;
+	font-size: 200%;
 }

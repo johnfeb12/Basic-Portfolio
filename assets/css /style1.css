@@ -52,7 +52,7 @@ body{
 .student1{
 	text-align: center;
 	color: black;
-	width: 55%;
+	width: 700px;
 	border:1px solid black;
 	padding-right: 5%;
 	border-radius: 10px;
@@ -125,7 +125,21 @@ img{
 	padding-top: 20px;
 }
 
+a.email1{
+	color: blue;
+}
+
+a.email1:hover{
+	color: green;
+}
+
+a.email1:active{
+	color: red
+}
+
+
 .aboutme{
 	padding-top: 30px;
 	font-size: 200%;
 }
+

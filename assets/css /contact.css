@@ -7,6 +7,7 @@ html{
 
 
 
+
 body{
 	margin:0px;
 	padding: 0px;
@@ -68,38 +69,7 @@ img{
     
 }
 
-.contact { 
-	text-align: center;
-	font-size: 20px
-}
 
-.About{
-	position: relative;
-	top:40px;
-	left: 75%;
-	color: white;
-}
-
-.Contact{
-	position: relative;
-	top:40px;
-	left: 77%;
-	color: white;
-}
-
-.Portfolio{
-	position: relative;
-	top:40px;
-	left: 79%;
-	color: white;
-}
-.cwm{
-	position: relative;
-	left: 12%;
-	top: -300%;
-	color: black;
-	z-index: 9;
-}
 .hr1 {
     height: 1px;
     border: 1px;
@@ -143,6 +113,288 @@ img{
 	padding-top: 10px;
 	font-size: 150%;
 }
+
+
+@media screen and (max-width:1800px){
+
+.icon{
+	position: relative;
+	top: -600px;    
+	right: -33%;
+	z-index: 0;
+	padding-top: 15%;
+	background-color: white;
+	margin:0px auto;
+	width: 40%;
+	height:67px;
+	border:1px solid black;
+	border-radius: 10px;
+	font-size: 200%
+}
+
+.student{
+	position: relative;
+	margin-bottom: 0px;
+		z-index: 999;
+		color: red;
+		padding-top: 15px;
+}
+
+.student1{
+	background-color: grey;
+	position: relative;
+	width: 50%;
+	height: 150%;
+	margin-left: 4%;
+
+}
+
+.contactbox{
+	background-color: blue;
+	width: 50%;
+}
+
+#subject{
+	width: 80%;
+}
+
+.imgme{
+	width: 90%;
+}
+
+.insta{
+	position: relative;
+}
+
+.idk{
+	    background-color: green;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+
+
+
+}
+
+.cwm{
+	margin-top: -150px;
+	margin-left: 40px;
+	color: red;
+
+}
+
+
+}
+
+
+
+
+@media screen and (max-width:980px){
+
+.icon{
+	position: relative;
+	top: -600px;    
+	right: -33%;
+	z-index: 0;
+	padding-top: 15%;
+	background-color: white;
+	margin:0px auto;
+	width: 40%;
+	height:67px;
+	border:1px solid black;
+	border-radius: 10px;
+	font-size: 200%
+}
+
+.student{
+	position: relative;
+	margin-bottom: 0px;
+		z-index: 999;
+		color: red;
+		padding-top: 15px;
+}
+
+.student1{
+	background-color: grey;
+	position: relative;
+	width: 50%;
+	height: 150%;
+	margin-left: 4%;
+
+}
+
+.contactbox{
+	background-color: blue;
+	width: 50%;
+}
+
+#subject{
+	width: 80%;
+}
+
+.imgme{
+	width: 90%;
+}
+
+.insta{
+	position: relative;
+}
+
+.idk{
+	    background-color: green;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+
+
+
+}
+
+.cwm{
+	margin-top: -150px;
+	margin-left: 40px;
+	color: red;
+
+}
+
+
+}
+
+@media screen and (max-width:768px){
+
+.icon{
+	position: relative;
+	top: -0px;    
+	right: 0%;
+	z-index: 0;
+	padding-top: 15%;
+	background-color: white;
+	margin:0px auto;
+	width: 300px;
+	height:67px;
+	border:1px solid black;
+	border-radius: 10px;
+	font-size: 200%
+	width:80%;
+}
+
+.student{
+	position: relative;
+	margin-bottom: -0px;
+	padding-top: 15px;
+		z-index: 999;
+}
+
+
+
+.student1{
+	background-color: grey;
+	position: relative;
+	width: 88%;
+	height: 100%;
+	margin-left: 4%;
+
+}
+
+.imgme{
+	width: 90%;
+}
+
+.insta{
+	position: relative;
+}
+
+.idk{
+	    background-color: green;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+
+
+
+}
+}
+
+
+@media screen and (max-width:640px){
+
+.student{
+	position: relative;
+	top:-10px;
+	margin-top:15px; 
+}
+
+
+
+.icon{
+	background-color: white;
+	width: 80%;
+}
+
+.contactbox{
+	background-color: grey;
+	position: relative;
+	width: 75%;
+	height: 100%;
+	margin-left: 4%;
+
+}
+
+.container{
+	background-color: grey;
+	position: relative;
+	width: 75%;
+	height: 100%;
+	margin-left: 4%;
+
+}
+
+
+
+   #subject{
+   	width: 100%;
+   }
+
+
+
+.links{
+	
+	color: white;
+	margin-bottom: 10%;
+	padding-bottom: 5%;
+	padding-top: 5%;
+	margin-left: -80%;
+	text-align: center;
+	margin-top: 70px;
+	
+	margin-bottom: -20px;
+
+	
+
+}
+	
+	.cwm{
+		position: relative;
+		top: 30%;
+	}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
 
 
 
